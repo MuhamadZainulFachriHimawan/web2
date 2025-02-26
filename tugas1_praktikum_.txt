@@ -1,0 +1,33 @@
+1.Jelaskan apa yang dimaksud dengan dokumen root?
+
+jw-> direktori utama yang di gunakan untuk menyimpan file situs web 
+yang bisa di akses orang banyak atau publik.
+
+2.Pada apache web server,apakah dokumen root harus terletak dalam 
+direktori C:\xampp\htdocs? jelaskan!
+
+jw->iya karena file akan dikelola dan dipisahkan di berbagai bagian situs.
+
+3.Jelaskan apa yang dimaksud dengan perintah git : init,clone,root,add,
+commit,push dan chekout?
+
+jw->git : init = untuk membuat repositori baru
+ clone = perintah yang digunakan untuk nyalin atau mendapatkan salinan repositorijarak jauh,
+ add = untuk menambahkan perubahan  file 
+ commit = untuk menyimpan perubahan
+ push = untuk mengirim commit dari repositori yang lokal ke yang jarak jauh
+ chekout =  untuk berpindah antar branch atau mengembalikan file
+
+ 4.Jelaskan perbedaan antara git hub dan gitlab?
+
+ jw->gihhub = fokus pada kolaborasi atau unggul dalam kolaborasi dan komunitas dan lebih popular buat individu atau kolaborasi
+     gitlab = lebih unggul dalam pengembangan perangkat lunak dan lebih popular untuk tim dan organisasi
+
+ 5.Apa bedanya variable user dengan variable system?
+
+ jw-> varable user = Diartikan oleh pengguna dan berlaku hanya untuk akun pengguna dan digunakan menyesuaikan lingkunan pengguna atau user
+       variable system = oleh system operasi,digunakam untuk mengontrol perilaku sytem operasi  dan berlaku untuk semua pengguna
+
+ 6.Apa pesamaan variable system dengan variable constant?
+
+ jw-> punya nilai yang tetap,digunakan untuk menjaga nilai nilai penting dan informasi konfigurasi      
